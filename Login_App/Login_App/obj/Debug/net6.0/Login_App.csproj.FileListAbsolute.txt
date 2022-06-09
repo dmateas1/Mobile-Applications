@@ -1,0 +1,15 @@
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/bin/Debug/net6.0/Login_App
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/bin/Debug/net6.0/Login_App.deps.json
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/bin/Debug/net6.0/Login_App.runtimeconfig.json
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/bin/Debug/net6.0/Login_App.dll
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/bin/Debug/net6.0/Login_App.pdb
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.csproj.AssemblyReference.cache
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.AssemblyInfoInputs.cache
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.AssemblyInfo.cs
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.csproj.CoreCompileInputs.cache
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.dll
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/refint/Login_App.dll
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.pdb
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/Login_App.genruntimeconfig.cache
+/Users/Delorian/Desktop/Visual Studio Projects/Login_App/Login_App/obj/Debug/net6.0/ref/Login_App.dll
